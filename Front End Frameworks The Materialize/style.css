@@ -1,0 +1,7 @@
+body{
+    background-color:rgb(196, 204, 181);
+}
+#nav-wrapper{
+display: flex;
+justify-content: center;
+}
